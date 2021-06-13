@@ -1,7 +1,7 @@
 '''
 Slow version of Go board.
  -> To understand logic.
-
+ (copy every board to check -> OVERHEAD)
 '''
 import copy
 from dlgo.gotypes import Player
