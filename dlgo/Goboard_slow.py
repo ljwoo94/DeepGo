@@ -1,3 +1,8 @@
+'''
+Slow version of Go board.
+ -> To understand logic.
+
+'''
 import copy
 from dlgo.gotypes import Player
 
